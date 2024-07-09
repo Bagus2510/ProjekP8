@@ -1,0 +1,5 @@
+How To Run
+Ketik di command:
+1. cd .\my-project-app\
+lalu
+2. npm run dev
